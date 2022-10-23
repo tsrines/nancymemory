@@ -1,0 +1,10 @@
+.card {
+  flex-basis: calc(25% - 20px);
+  height: 10em;
+  border: 5px solid #584f47;
+  border-radius: 5px;
+  margin: 5px 0;
+  cursor: pointer;
+  background-color: lightgrey;
+  transition: 0.3s background-color linear;
+}
